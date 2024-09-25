@@ -1,8 +1,8 @@
 # 30-Day DSA Learning Roadmap
 
 ## **Day 1-3: Time Complexity and Arrays**
-- [ ] Introduction to **Big O Notation**, **Time Complexity**, and **Space Complexity**.
-- [ ] Learn array operations: **Insertion**, **Deletion**, **Traversal**, **Search**.
+- [X] Introduction to **Big O Notation**, **Time Complexity**, and **Space Complexity**.
+- [X] Learn array operations: **Insertion**, **Deletion**, **Traversal**, **Search**.
   
 ### **Practice Questions:**
 - [ ] Find the maximum/minimum in an array.
