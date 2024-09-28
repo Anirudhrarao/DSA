@@ -6,9 +6,9 @@
   
 ### **Practice Questions:**
 - [ ] Find the maximum/minimum in an array.
-- [ ] Rotate an array by k elements.
+- [X] Rotate an array by k elements.
 - [ ] Find the second largest element in an array.
-- [ ] Remove duplicates from a sorted array.
+- [X] Remove duplicates from a sorted array.
 
 ## **Day 4-6: Linked Lists**
 - [ ] Introduction to **Singly Linked List**: **Insertion**, **Deletion**, **Traversal**.
