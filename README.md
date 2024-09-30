@@ -5,9 +5,9 @@
 - [X] Learn array operations: **Insertion**, **Deletion**, **Traversal**, **Search**.
   
 ### **Practice Questions:**
-- [ ] Find the maximum/minimum in an array.
+- [X] Find the maximum/minimum in an array.
 - [X] Rotate an array by k elements.
-- [ ] Find the second largest element in an array.
+- [X] Find the second largest element in an array.
 - [X] Remove duplicates from a sorted array.
 
 ## **Day 4-6: Linked Lists**
