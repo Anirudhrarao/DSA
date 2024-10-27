@@ -11,7 +11,7 @@
 - [X] Remove duplicates from a sorted array.
 
 ## **Day 4-6: Linked Lists**
-- [ ] Introduction to **Singly Linked List**: **Insertion**, **Deletion**, **Traversal**.
+- [X] Introduction to **Singly Linked List**: **Insertion**, **Deletion**, **Traversal**.
 - [ ] Introduction to **Doubly Linked List**.
 - [ ] Understand **Circular Linked Lists**.
 
